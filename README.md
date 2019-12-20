@@ -2,7 +2,7 @@
 
 ![img](images/demo.jpg)
 
-## What did I will learnt
+## What I learnt
 
 - Modularising your code into separate classes.
 - Dart classes and objects.
